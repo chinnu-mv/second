@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("chinnulast")
         print("secondbbb")
         print("chinnulast   ")
+          print("chinnulast nvbnvn  ")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
