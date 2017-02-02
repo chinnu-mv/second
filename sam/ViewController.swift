@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         
         print("chinnulast   ")
         print("chinnulast nvbnvn  ")
-          print("chinnulast nvbnvn  ")
+          print("chinnulast nvbnvn  ggg")
  
         // Do any additional setup after loading the view, typically from a nib.
     }
